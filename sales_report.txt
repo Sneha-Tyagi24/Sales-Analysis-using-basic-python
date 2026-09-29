@@ -1,0 +1,25 @@
+===== SALES REPORT =====
+
+Total Orders=20
+Total Units=91
+Total Revenue=Rs.219250
+Average Order Value=Rs.10962.5
+
+Category wise revenue
+
+Electronics:Rs.155400
+Furniture:Rs.55000
+Stationery:Rs.8850
+
+City wise revenue
+
+Chandigarh:Rs.98500
+Mohali:Rs.78000
+Delhi:Rs.33150
+Patiala:Rs.9600
+
+Payment mode summary
+
+UPI:8
+Card:7
+Cash:5
